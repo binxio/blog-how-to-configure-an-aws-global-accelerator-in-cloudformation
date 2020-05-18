@@ -1,6 +1,6 @@
 # cfn-global-accelator-provider
 
-code for [Global Accelerator in CloudFormation](https://binx.io/blog/2019/07/10/how-to-configure-an-aws-global-accelerator-in-cloudformation/)
+code for [blog Global Accelerator in CloudFormation](https://binx.io/blog/2019/07/10/how-to-configure-an-aws-global-accelerator-in-cloudformation/)
 
 ### Deploy the demo
 In order to deploy the demo, type:
