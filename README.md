@@ -1,4 +1,4 @@
-# cfn-global-accelator-provider
+# AWS Global Accelerator in CloudFormation
 
 code for [blog Global Accelerator in CloudFormation](https://binx.io/blog/2019/07/10/how-to-configure-an-aws-global-accelerator-in-cloudformation/)
 
